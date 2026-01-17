@@ -1,5 +1,7 @@
 # Zichang (Benni) Wang
 
+![Profile Photo](assets/profile.jpg)
+
 Seattle, WA, USA
 https://linkedin.com/in/zichang-wang-uw
 
